@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shaked-shlomo
+- 👀 I’m interested in expanding my knowledge about automation.
+- 🌱 I’m currently learning K8s, OpenShift & CS.
+- 📫 How to reach me: Linkdin
+- 😄 Pronouns: He/Him/His
